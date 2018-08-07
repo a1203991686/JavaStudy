@@ -1,4 +1,4 @@
-package com.unit08.IODemo;
+package com.unit08.No07_ChangeStream;
 
 import java.io.*;
 import java.nio.charset.Charset;

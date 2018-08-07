@@ -1,4 +1,4 @@
-package com.unit08.IODemo;
+package com.unit08.No06_CopyFile;
 
 import java.io.*;
 
