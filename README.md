@@ -1,6 +1,4 @@
-# JavaStudy(JavaAndKotlinStudy)
-
-> 2020.6.16 之前是JavaStudy，然后将本地的KotlinStudy整合进来
+# JavaStudy
 
 ## 目录介绍
 ### ChatRoom
